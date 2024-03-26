@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
--🌱 I’m currently learning Penetration testing and Backend Web Development(NodeJS)
+-🌱 I’m currently improving myself in  Penetration testing and DevSecOps
 
 -📫 How to reach me: https://www.linkedin.com/in/gulay-nazarova-85a735250/
 <!--- 
