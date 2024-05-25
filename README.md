@@ -1,5 +1,5 @@
 <h1 align="center">Hi everyone, I'm Gulay Nazarova</h1>
-<h3 align="center">A DevSecOps and Application Security Engineer</h3>
+<h3 align="center">DevSecOps Engineer and Application(Web,Mobile) Penetration Tester</h3>
 
 
 - 🌱 I’m currently learning **Mobile Application Pentesting,Web Application Pentesting and DevSecOps**
