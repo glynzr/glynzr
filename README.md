@@ -1,4 +1,4 @@
-<h1 align="center">Hi everyone, I'm Gulay Nazarova</h1>
+<h1 align="center">Hi, I'm Gulay Nazarova</h1>
 <h3 align="center">DevSecOps Engineer and Application(Web,Mobile) Penetration Tester</h3>
 
 
