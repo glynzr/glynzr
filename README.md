@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Gulay Nazarova</h1>
 <h3 align="center">DevSecOps Engineer and Application(Web,Mobile) Penetration Tester</h3>
 
-
-- 🌱 I’m currently learning **Mobile Application Pentesting,Web Application Pentesting and DevSecOps**
+   🌱 I’m currently learning **Mobile Application Pentesting,Web Application Pentesting and DevSecOps**
 
 
 <h3 align="left">Connect with me:</h3>
